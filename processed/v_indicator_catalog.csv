@@ -1,0 +1,254 @@
+indicator,series_id,indicator_label,economic_domain,first_date,last_date,observation_count
+111number_of_new_entrant_businesses,111,Number Of New Entrant Businesses,Business activity and insolvency,1/1/2015,6/1/2026,138
+112number_of_reopening_businesses,112,Number Of Reopening Businesses,Business activity and insolvency,1/1/2015,6/1/2026,138
+113number_of_closing_businesses,113,Number Of Closing Businesses,Business activity and insolvency,1/1/2015,6/1/2026,138
+114total_insolvencies,114,Total Insolvencies,Business activity and insolvency,1/1/1987,8/1/2026,476
+115total_bankruptcies,115,Total Bankruptcies,Business activity and insolvency,1/1/1987,8/1/2026,476
+116total_insolvency_proposals,116,Total Insolvency Proposals,Business activity and insolvency,1/1/1987,8/1/2026,476
+117consumer_insolvencies,117,Consumer Insolvencies,Business activity and insolvency,1/1/1987,8/1/2026,476
+118consumer_bankruptcies,118,Consumer Bankruptcies,Business activity and insolvency,1/1/1987,8/1/2026,476
+119consumer_insolvency_proposals,119,Consumer Insolvency Proposals,Business activity and insolvency,1/1/1987,8/1/2026,476
+120corporate_business_insolvencies,120,Corporate Business Insolvencies,Business activity and insolvency,1/1/1987,8/1/2026,476
+121corporate_business_bankruptcies,121,Corporate Business Bankruptcies,Business activity and insolvency,1/1/1987,8/1/2026,476
+122corporate_business_insolvency_proposals,122,Corporate Business Insolvency Proposals,Business activity and insolvency,1/1/1987,8/1/2026,476
+123individual_business_insolvencies,123,Individual Business Insolvencies,Business activity and insolvency,1/1/1987,8/1/2026,476
+124individual_business_bankruptcies,124,Individual Business Bankruptcies,Business activity and insolvency,1/1/1987,8/1/2026,476
+125individual_business_insolvency_proposals,125,Individual Business Insolvency Proposals,Business activity and insolvency,1/1/1987,8/1/2026,476
+171consumer_price_index_bank_of_canada_weighted_median_core_yoy_change,171,Consumer Price Index Bank Of Canada Weighted Median Core Yoy Change,Consumer prices,1/1/1990,9/1/2026,441
+172consumer_price_index_bank_of_canada_trimmed_mean_core_yoy_change,172,Consumer Price Index Bank Of Canada Trimmed Mean Core Yoy Change,Consumer prices,1/1/1990,9/1/2026,441
+173consumer_price_index_sa_all_items,173,Consumer Price Index Sa All Items,Consumer prices,1/1/1992,9/1/2026,417
+174consumer_price_index_sa_food,174,Consumer Price Index Sa Food,Consumer prices,1/1/1992,9/1/2026,417
+175consumer_price_index_sa_shelter,175,Consumer Price Index Sa Shelter,Consumer prices,1/1/1992,9/1/2026,417
+176consumer_price_index_sa_household_operations_furnishings_and_equipment,176,Consumer Price Index Sa Household Operations Furnishings And Equipment,Consumer prices,1/1/1992,9/1/2026,417
+177consumer_price_index_sa_clothing_and_footwear,177,Consumer Price Index Sa Clothing And Footwear,Consumer prices,1/1/1992,9/1/2026,417
+178consumer_price_index_sa_transportation,178,Consumer Price Index Sa Transportation,Consumer prices,1/1/1992,9/1/2026,417
+179consumer_price_index_sa_health_and_personal_care,179,Consumer Price Index Sa Health And Personal Care,Consumer prices,1/1/1992,9/1/2026,417
+180consumer_price_index_sa_recreation_education_and_reading,180,Consumer Price Index Sa Recreation Education And Reading,Consumer prices,1/1/1992,9/1/2026,417
+181consumer_price_index_sa_alcoholic_beverages_tobacco_products_and_recreational_cannabis,181,Consumer Price Index Sa Alcoholic Beverages Tobacco Products And Recreational Cannabis,Consumer prices,1/1/1992,9/1/2026,417
+182consumer_price_index_sa_all_items_excluding_food,182,Consumer Price Index Sa All Items Excluding Food,Consumer prices,1/1/1992,9/1/2026,417
+183consumer_price_index_sa_all_items_excluding_food_and_energy,183,Consumer Price Index Sa All Items Excluding Food And Energy,Consumer prices,1/1/1992,9/1/2026,417
+184consumer_price_index_all_items,184,Consumer Price Index All Items,Consumer prices,1/1/1914,9/1/2026,1353
+185consumer_price_index_food,185,Consumer Price Index Food,Consumer prices,1/1/1949,9/1/2026,933
+186consumer_price_index_shelter,186,Consumer Price Index Shelter,Consumer prices,9/1/1978,9/1/2026,577
+187consumer_price_index_household_operations_furnishings_and_equipment,187,Consumer Price Index Household Operations Furnishings And Equipment,Consumer prices,9/1/1978,9/1/2026,577
+188consumer_price_index_clothing_and_footwear,188,Consumer Price Index Clothing And Footwear,Consumer prices,1/1/1949,9/1/2026,933
+189consumer_price_index_transportation,189,Consumer Price Index Transportation,Consumer prices,1/1/1949,9/1/2026,933
+190consumer_price_index_gasoline,190,Consumer Price Index Gasoline,Consumer prices,1/1/1949,9/1/2026,933
+191consumer_price_index_health_and_personal_care,191,Consumer Price Index Health And Personal Care,Consumer prices,1/1/1949,9/1/2026,933
+192consumer_price_index_recreation_education_and_reading,192,Consumer Price Index Recreation Education And Reading,Consumer prices,1/1/1949,9/1/2026,933
+193consumer_price_index_alcoholic_beverages_tobacco_products_and_recreational_cannabis,193,Consumer Price Index Alcoholic Beverages Tobacco Products And Recreational Cannabis,Consumer prices,1/1/1949,9/1/2026,933
+194consumer_price_index_all_items_excluding_food_and_energy,194,Consumer Price Index All Items Excluding Food And Energy,Consumer prices,1/1/1961,9/1/2026,789
+195consumer_price_index_all_items_excluding_energy,195,Consumer Price Index All Items Excluding Energy,Consumer prices,1/1/1971,9/1/2026,669
+196consumer_price_index_energy,196,Consumer Price Index Energy,Consumer prices,1/1/1961,9/1/2026,789
+197consumer_price_index_goods,197,Consumer Price Index Goods,Consumer prices,1/1/1961,9/1/2026,789
+198consumer_price_index_services,198,Consumer Price Index Services,Consumer prices,1/1/1961,9/1/2026,789
+227canadian_dollars_to_us_dollar_exchange_rate,227,Canadian Dollars To Us Dollar Exchange Rate,Financial markets and credit,1/1/1971,10/1/2026,670
+228nominal_canadian_effective_exchange_rate,228,Nominal Canadian Effective Exchange Rate,Financial markets and credit,1/1/1999,10/1/2026,334
+229nominal_canadian_effective_exchange_rate_excluding_us_dollar,229,Nominal Canadian Effective Exchange Rate Excluding Us Dollar,Financial markets and credit,1/1/1999,10/1/2026,334
+230sptsx_composite_index,230,Sptsx Composite Index,Financial markets and credit,6/1/1979,10/1/2026,569
+231government_of_canada_accumulated_deficit,231,Government Of Canada Accumulated Deficit,Financial markets and credit,9/1/2009,3/1/2026,123
+232government_of_canada_net_debt,232,Government Of Canada Net Debt,Financial markets and credit,9/1/2009,3/1/2026,123
+233government_of_canada_market_debt,233,Government Of Canada Market Debt,Financial markets and credit,9/1/2009,3/1/2026,123
+234net_purchases_of_canadian_securities_by_foreigners,234,Net Purchases Of Canadian Securities By Foreigners,Financial markets and credit,1/1/1988,8/1/2026,464
+235net_purchases_of_foreign_securities_by_canadians,235,Net Purchases Of Foreign Securities By Canadians,Financial markets and credit,1/1/1988,8/1/2026,464
+236money_supply_m1,236,Money Supply M1,Financial markets and credit,3/1/1975,8/1/2026,618
+237money_supply_m1,237,Money Supply M1,Financial markets and credit,1/1/1968,8/1/2026,704
+238money_supply_m2,238,Money Supply M2,Financial markets and credit,1/1/1968,8/1/2026,704
+239money_supply_m2,239,Money Supply M2,Financial markets and credit,1/1/1968,8/1/2026,704
+240money_supply_m2,240,Money Supply M2,Financial markets and credit,1/1/1968,8/1/2026,704
+241money_supply_m3,241,Money Supply M3,Financial markets and credit,1/1/1970,8/1/2026,680
+242one_month_treasury_bill_yield,242,One Month Treasury Bill Yield,Financial markets and credit,1/1/2001,10/1/2026,310
+243twelve_month_treasury_bill_yield,243,Twelve Month Treasury Bill Yield,Financial markets and credit,1/1/2001,10/1/2026,310
+244government_of_canada_1_3_year_bond_yield,244,Government Of Canada 1 3 Year Bond Yield,Financial markets and credit,1/1/2001,10/1/2026,310
+245government_of_canada_5_10_year_bond_yield,245,Government Of Canada 5 10 Year Bond Yield,Financial markets and credit,1/1/2001,10/1/2026,310
+246one_year_conventional_mortgage_rate,246,One Year Conventional Mortgage Rate,Financial markets and credit,1/1/1980,10/1/2026,562
+247five_year_conventional_mortgage_rate,247,Five Year Conventional Mortgage Rate,Financial markets and credit,1/1/1975,10/1/2026,622
+248one_year_guaranteed_investment_certificate_rate,248,One Year Guaranteed Investment Certificate Rate,Financial markets and credit,11/1/1980,10/1/2026,552
+249five_year_guaranteed_investment_certificate_rate,249,Five Year Guaranteed Investment Certificate Rate,Financial markets and credit,11/1/1980,10/1/2026,552
+250chartered_bank_prime_rate,250,Chartered Bank Prime Rate,Financial markets and credit,1/1/1975,10/1/2026,622
+251household_credit_card_liabilities,251,Household Credit Card Liabilities,Financial markets and credit,1/1/1990,8/1/2026,440
+252household_auto_loan_liabilities_to_chartered_banks,252,Household Auto Loan Liabilities To Chartered Banks,Financial markets and credit,1/1/2016,8/1/2026,128
+253household_total_mortgage_liabilities,253,Household Total Mortgage Liabilities,Financial markets and credit,1/1/1990,8/1/2026,440
+254household_total_non_mortgage_liabilities,254,Household Total Non Mortgage Liabilities,Financial markets and credit,1/1/1990,8/1/2026,440
+255bank_of_canada_assets,255,Bank Of Canada Assets,Financial markets and credit,12/1/1980,10/1/2026,551
+256bank_of_canada_equity,256,Bank Of Canada Equity,Financial markets and credit,1/1/2023,10/1/2026,46
+10gross_domestic_product_mining_quarrying_and_oil_and_gas_extraction,10,Gross Domestic Product Mining Quarrying And Oil And Gas Extraction,GDP and industry output,1/1/1997,7/1/2026,355
+11gross_domestic_product_utilities,11,Gross Domestic Product Utilities,GDP and industry output,1/1/1997,7/1/2026,355
+12gross_domestic_product_construction,12,Gross Domestic Product Construction,GDP and industry output,1/1/1997,7/1/2026,355
+13gross_domestic_product_manufacturing,13,Gross Domestic Product Manufacturing,GDP and industry output,1/1/1997,7/1/2026,355
+14gross_domestic_product_wholesale_trade,14,Gross Domestic Product Wholesale Trade,GDP and industry output,1/1/1997,7/1/2026,355
+15gross_domestic_product_retail_trade,15,Gross Domestic Product Retail Trade,GDP and industry output,1/1/1997,7/1/2026,355
+16gross_domestic_product_transportation_and_warehousing,16,Gross Domestic Product Transportation And Warehousing,GDP and industry output,1/1/1997,7/1/2026,355
+17gross_domestic_product_information_and_cultural_industries,17,Gross Domestic Product Information And Cultural Industries,GDP and industry output,1/1/1997,7/1/2026,355
+18gross_domestic_product_finance_and_insurance,18,Gross Domestic Product Finance And Insurance,GDP and industry output,1/1/1997,7/1/2026,355
+19gross_domestic_product_real_estate_and_rental_and_leasing,19,Gross Domestic Product Real Estate And Rental And Leasing,GDP and industry output,1/1/1997,7/1/2026,355
+1gross_domestic_product_at_basic_prices,1,Gross Domestic Product At Basic Prices,GDP and industry output,1/1/1997,8/1/2026,356
+20gross_domestic_product_professional_scientific_and_technical_services,20,Gross Domestic Product Professional Scientific And Technical Services,GDP and industry output,1/1/1997,7/1/2026,355
+21gross_domestic_product_management_of_companies_and_enterprises,21,Gross Domestic Product Management Of Companies And Enterprises,GDP and industry output,1/1/2007,7/1/2026,235
+22gross_domestic_product_administrative_and_support_waste_management_and_remediation_services,22,Gross Domestic Product Administrative And Support Waste Management And Remediation Services,GDP and industry output,1/1/1997,7/1/2026,355
+23gross_domestic_product_educational_services,23,Gross Domestic Product Educational Services,GDP and industry output,1/1/1997,7/1/2026,355
+24gross_domestic_product_health_care_and_social_assistance,24,Gross Domestic Product Health Care And Social Assistance,GDP and industry output,1/1/1997,7/1/2026,355
+25gross_domestic_product_arts_entertainment_and_recreation,25,Gross Domestic Product Arts Entertainment And Recreation,GDP and industry output,1/1/1997,7/1/2026,355
+26gross_domestic_product_accommodation_and_food_services,26,Gross Domestic Product Accommodation And Food Services,GDP and industry output,1/1/1997,7/1/2026,355
+27gross_domestic_product_other_services_except_public_administration,27,Gross Domestic Product Other Services Except Public Administration,GDP and industry output,1/1/1997,7/1/2026,355
+28gross_domestic_product_public_administration,28,Gross Domestic Product Public Administration,GDP and industry output,1/1/1997,7/1/2026,355
+2gross_domestic_product_goods_producing_industries,2,Gross Domestic Product Goods Producing Industries,GDP and industry output,1/1/1997,7/1/2026,355
+3gross_domestic_product_services_producing_industries,3,Gross Domestic Product Services Producing Industries,GDP and industry output,1/1/1997,7/1/2026,355
+4gross_domestic_product_business_sector,4,Gross Domestic Product Business Sector,GDP and industry output,1/1/2007,7/1/2026,235
+5gross_domestic_product_non_business_sector,5,Gross Domestic Product Non Business Sector,GDP and industry output,1/1/2007,7/1/2026,235
+6gross_domestic_product_public_sector,6,Gross Domestic Product Public Sector,GDP and industry output,1/1/2007,7/1/2026,235
+7gross_domestic_product_industrial_production,7,Gross Domestic Product Industrial Production,GDP and industry output,1/1/1997,7/1/2026,355
+8gross_domestic_product_energy_sector,8,Gross Domestic Product Energy Sector,GDP and industry output,1/1/1997,7/1/2026,355
+9gross_domestic_product_agriculture_forestry_fishing_and_hunting,9,Gross Domestic Product Agriculture Forestry Fishing And Hunting,GDP and industry output,1/1/1997,7/1/2026,355
+126lfs_population,126,Lfs Population,Labour market,1/1/1976,9/1/2026,609
+127labour_force,127,Labour Force,Labour market,1/1/1976,9/1/2026,609
+128lfs_employment,128,Lfs Employment,Labour market,1/1/1976,9/1/2026,609
+129lfs_employment_full_time,129,Lfs Employment Full Time,Labour market,1/1/1976,9/1/2026,609
+130lfs_employment_part_time,130,Lfs Employment Part Time,Labour market,1/1/1976,9/1/2026,609
+131unemployment,131,Unemployment,Labour market,1/1/1976,9/1/2026,609
+132unemployment_rate,132,Unemployment Rate,Labour market,1/1/1976,9/1/2026,609
+133participation_rate,133,Participation Rate,Labour market,1/1/1976,9/1/2026,609
+134employment_rate,134,Employment Rate,Labour market,1/1/1976,9/1/2026,609
+135seph_total_employment,135,Seph Total Employment,Labour market,1/1/2001,7/1/2026,307
+136seph_employment_goods_producing_industries,136,Seph Employment Goods Producing Industries,Labour market,1/1/2001,7/1/2026,307
+137seph_employment_forestry_logging_and_support,137,Seph Employment Forestry Logging And Support,Labour market,1/1/2001,7/1/2026,307
+138seph_employment_mining_quarrying_and_oil_and_gas_extraction,138,Seph Employment Mining Quarrying And Oil And Gas Extraction,Labour market,1/1/2001,7/1/2026,307
+139seph_employment_oil_and_gas_extraction,139,Seph Employment Oil And Gas Extraction,Labour market,1/1/2001,7/1/2026,307
+140seph_employment_mining_and_quarrying_except_oil_and_gas,140,Seph Employment Mining And Quarrying Except Oil And Gas,Labour market,1/1/2001,7/1/2026,307
+141seph_employment_support_activities_for_mining_and_oil_and_gas_extraction,141,Seph Employment Support Activities For Mining And Oil And Gas Extraction,Labour market,1/1/2001,7/1/2026,307
+142seph_employment_utilities,142,Seph Employment Utilities,Labour market,1/1/2001,7/1/2026,307
+143seph_employment_construction,143,Seph Employment Construction,Labour market,1/1/2001,7/1/2026,307
+144seph_employment_manufacturing,144,Seph Employment Manufacturing,Labour market,1/1/2001,7/1/2026,307
+145seph_employment_services_producing_industries,145,Seph Employment Services Producing Industries,Labour market,1/1/2001,7/1/2026,307
+146seph_employment_retail_and_wholesale_trade,146,Seph Employment Retail And Wholesale Trade,Labour market,1/1/2001,7/1/2026,307
+147seph_employment_transportation_and_warehousing,147,Seph Employment Transportation And Warehousing,Labour market,1/1/2001,7/1/2026,307
+148seph_employment_information_and_cultural_industries,148,Seph Employment Information And Cultural Industries,Labour market,1/1/2001,7/1/2026,307
+149seph_employment_finance_and_insurance,149,Seph Employment Finance And Insurance,Labour market,1/1/2002,7/1/2026,295
+150seph_employment_real_estate_and_rental_and_leasing,150,Seph Employment Real Estate And Rental And Leasing,Labour market,1/1/2002,7/1/2026,295
+151seph_employment_professional_scientific_and_technical_services,151,Seph Employment Professional Scientific And Technical Services,Labour market,1/1/2001,7/1/2026,307
+152seph_employment_management_of_companies_and_enterprises,152,Seph Employment Management Of Companies And Enterprises,Labour market,1/1/2001,7/1/2026,307
+153seph_employment_administrative_and_support_waste_management_and_remediation_services,153,Seph Employment Administrative And Support Waste Management And Remediation Services,Labour market,1/1/2001,7/1/2026,307
+154seph_employment_educational_services,154,Seph Employment Educational Services,Labour market,1/1/2001,7/1/2026,307
+155seph_employment_health_care_and_social_assistance,155,Seph Employment Health Care And Social Assistance,Labour market,1/1/2001,7/1/2026,307
+156seph_employment_arts_entertainment_and_recreation,156,Seph Employment Arts Entertainment And Recreation,Labour market,1/1/2001,7/1/2026,307
+157seph_employment_accommodation_and_food_services,157,Seph Employment Accommodation And Food Services,Labour market,1/1/2001,7/1/2026,307
+158seph_employment_other_services_except_public_administration,158,Seph Employment Other Services Except Public Administration,Labour market,1/1/2001,7/1/2026,307
+159seph_employment_public_administration,159,Seph Employment Public Administration,Labour market,1/1/2001,7/1/2026,307
+160seph_employment_unclassified_businesses,160,Seph Employment Unclassified Businesses,Labour market,1/1/2001,7/1/2026,307
+161average_weekly_earnings,161,Average Weekly Earnings,Labour market,1/1/2001,7/1/2026,307
+162average_hourly_earnings_hourly_rated_employees,162,Average Hourly Earnings Hourly Rated Employees,Labour market,1/1/2001,7/1/2026,307
+163fixed_weight_index_of_average_hourly_earnings,163,Fixed Weight Index Of Average Hourly Earnings,Labour market,1/1/2001,7/1/2026,307
+167employment_insurance_claims,167,Employment Insurance Claims,Labour market,1/1/1997,8/1/2026,349
+168employment_insurance_beneficiaries,168,Employment Insurance Beneficiaries,Labour market,1/1/1997,8/1/2026,356
+169job_vacancies,169,Job Vacancies,Labour market,4/1/2015,7/1/2026,130
+170job_vacancy_rate,170,Job Vacancy Rate,Labour market,4/1/2015,7/1/2026,130
+74manufacturing_sales_value,74,Manufacturing Sales Value,Manufacturing and construction,1/1/1992,9/1/2026,417
+75manufacturing_sales_volume,75,Manufacturing Sales Volume,Manufacturing and construction,1/1/2002,8/1/2026,296
+76manufacturing_new_orders_value,76,Manufacturing New Orders Value,Manufacturing and construction,1/1/1992,8/1/2026,416
+77manufacturing_new_orders_volume,77,Manufacturing New Orders Volume,Manufacturing and construction,2/1/2002,8/1/2026,295
+78manufacturing_unfilled_orders_value,78,Manufacturing Unfilled Orders Value,Manufacturing and construction,1/1/1992,8/1/2026,416
+79manufacturing_unfilled_orders_volume,79,Manufacturing Unfilled Orders Volume,Manufacturing and construction,1/1/2002,8/1/2026,296
+80manufacturing_inventories_value,80,Manufacturing Inventories Value,Manufacturing and construction,1/1/1992,8/1/2026,416
+81manufacturing_inventories_volume,81,Manufacturing Inventories Volume,Manufacturing and construction,1/1/2002,8/1/2026,296
+82manufacturing_inventories_to_sales_ratio,82,Manufacturing Inventories To Sales Ratio,Manufacturing and construction,1/1/1992,8/1/2026,416
+83manufacturing_finished_goods_inventories_to_sales_ratio,83,Manufacturing Finished Goods Inventories To Sales Ratio,Manufacturing and construction,1/1/1992,8/1/2026,416
+84manufacturing_capacity_utilization_total,84,Manufacturing Capacity Utilization Total,Manufacturing and construction,1/1/2017,8/1/2026,116
+85manufacturing_capacity_utilization_durable_goods_industries,85,Manufacturing Capacity Utilization Durable Goods Industries,Manufacturing and construction,1/1/2017,8/1/2026,116
+86manufacturing_capacity_utilization_non_durable_goods_industries,86,Manufacturing Capacity Utilization Non Durable Goods Industries,Manufacturing and construction,1/1/2017,8/1/2026,116
+87residential_building_permits_value,87,Residential Building Permits Value,Manufacturing and construction,1/1/2018,8/1/2026,104
+88non_residential_building_permits_value,88,Non Residential Building Permits Value,Manufacturing and construction,1/1/2018,8/1/2026,104
+89total_construction_investment_value,89,Total Construction Investment Value,Manufacturing and construction,1/1/2017,8/1/2026,116
+90total_construction_investment_volume,90,Total Construction Investment Volume,Manufacturing and construction,1/1/2017,8/1/2026,116
+91residential_construction_investment_value,91,Residential Construction Investment Value,Manufacturing and construction,1/1/2017,8/1/2026,116
+92residential_construction_investment_volume,92,Residential Construction Investment Volume,Manufacturing and construction,1/1/2017,8/1/2026,116
+93non_residential_construction_investment_value,93,Non Residential Construction Investment Value,Manufacturing and construction,1/1/2017,8/1/2026,116
+94non_residential_construction_investment_volume,94,Non Residential Construction Investment Volume,Manufacturing and construction,1/1/2017,8/1/2026,116
+95housing_starts_in_all_areas,95,Housing Starts In All Areas,Manufacturing and construction,1/1/1990,9/1/2026,441
+199farm_product_price_index,199,Farm Product Price Index,"Other prices, commodities and housing",1/1/1935,6/1/2026,1098
+200farm_crops_price_index,200,Farm Crops Price Index,"Other prices, commodities and housing",1/1/1971,6/1/2026,666
+201farm_livestock_and_animal_products_price_index,201,Farm Livestock And Animal Products Price Index,"Other prices, commodities and housing",1/1/1971,6/1/2026,666
+202raw_materials_price_index,202,Raw Materials Price Index,"Other prices, commodities and housing",1/1/1981,9/1/2026,549
+203industrial_product_price_index,203,Industrial Product Price Index,"Other prices, commodities and housing",1/1/1956,9/1/2026,849
+204industrial_product_price_index_excluding_energy_and_petroleum_products,204,Industrial Product Price Index Excluding Energy And Petroleum Products,"Other prices, commodities and housing",1/1/1981,9/1/2026,549
+205machinery_and_equipment_price_index,205,Machinery And Equipment Price Index,"Other prices, commodities and housing",1/1/2010,7/1/2026,199
+206freight_rail_services_price_index,206,Freight Rail Services Price Index,"Other prices, commodities and housing",1/1/2018,9/1/2026,105
+207electric_power_selling_price_index,207,Electric Power Selling Price Index,"Other prices, commodities and housing",1/1/1981,8/1/2026,548
+208couriers_and_messengers_services_price_index,208,Couriers And Messengers Services Price Index,"Other prices, commodities and housing",1/1/2010,8/1/2026,200
+209average_asking_monthly_rent,209,Average Asking Monthly Rent,"Other prices, commodities and housing",4/1/2019,9/1/2026,90
+210commercial_rents_services_price_index,210,Commercial Rents Services Price Index,"Other prices, commodities and housing",1/1/2006,6/1/2026,246
+211retail_services_price_index,211,Retail Services Price Index,"Other prices, commodities and housing",1/1/2008,8/1/2026,224
+212wholesale_services_price_index,212,Wholesale Services Price Index,"Other prices, commodities and housing",1/1/2008,8/1/2026,224
+213new_housing_price_index,213,New Housing Price Index,"Other prices, commodities and housing",1/1/1981,9/1/2026,549
+214new_housing_price_index_land_component,214,New Housing Price Index Land Component,"Other prices, commodities and housing",1/1/1981,9/1/2026,549
+215new_housing_price_index_excluding_land,215,New Housing Price Index Excluding Land,"Other prices, commodities and housing",1/1/1981,9/1/2026,549
+216merchandise_exports_price_index,216,Merchandise Exports Price Index,"Other prices, commodities and housing",1/1/2017,8/1/2026,116
+217merchandise_imports_price_index,217,Merchandise Imports Price Index,"Other prices, commodities and housing",1/1/2017,8/1/2026,116
+218bank_of_canada_commodity_price_index_total,218,Bank Of Canada Commodity Price Index Total,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+219bank_of_canada_commodity_price_index_excluding_energy,219,Bank Of Canada Commodity Price Index Excluding Energy,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+220bank_of_canada_commodity_price_index_energy,220,Bank Of Canada Commodity Price Index Energy,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+221bank_of_canada_commodity_price_index_metals_and_minerals,221,Bank Of Canada Commodity Price Index Metals And Minerals,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+222bank_of_canada_commodity_price_index_forestry,222,Bank Of Canada Commodity Price Index Forestry,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+223bank_of_canada_commodity_price_index_agriculture,223,Bank Of Canada Commodity Price Index Agriculture,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+224bank_of_canada_commodity_price_index_fish,224,Bank Of Canada Commodity Price Index Fish,"Other prices, commodities and housing",1/1/1972,9/1/2026,657
+225crude_oil_price_wti,225,Crude Oil Price Wti,"Other prices, commodities and housing",1/1/1986,10/1/2026,490
+226us_consumer_price_index,226,Us Consumer Price Index,"Other prices, commodities and housing",1/1/1947,9/1/2026,956
+29retail_sales,29,Retail Sales,Retail and motor vehicles,1/1/2017,9/1/2026,117
+30retail_sales_volume,30,Retail Sales Volume,Retail and motor vehicles,1/1/2017,8/1/2026,116
+31retail_sales_of_motor_vehicle_and_parts_dealers,31,Retail Sales Of Motor Vehicle And Parts Dealers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+32retail_sales_of_building_material_and_garden_equipment_and_supplies_dealers,32,Retail Sales Of Building Material And Garden Equipment And Supplies Dealers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+33retail_sales_of_food_and_beverage_retailers,33,Retail Sales Of Food And Beverage Retailers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+34retail_sales_of_furniture_home_furnishings_electronics_and_appliances_retailers,34,Retail Sales Of Furniture Home Furnishings Electronics And Appliances Retailers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+35retail_sales_of_general_merchandise_retailers,35,Retail Sales Of General Merchandise Retailers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+36retail_sales_of_health_and_personal_care_retailers,36,Retail Sales Of Health And Personal Care Retailers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+37retail_sales_of_gasoline_stations_and_fuel_vendors,37,Retail Sales Of Gasoline Stations And Fuel Vendors,Retail and motor vehicles,1/1/2017,8/1/2026,116
+38retail_sales_of_clothing_clothing_accessories_shoes_jewellery_luggage_and_leather_goods_retailers,38,Retail Sales Of Clothing Clothing Accessories Shoes Jewellery Luggage And Leather Goods Retailers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+39retail_sales_of_sporting_goods_hobby_musical_instrument_book_and_miscellaneous_retailers,39,Retail Sales Of Sporting Goods Hobby Musical Instrument Book And Miscellaneous Retailers,Retail and motor vehicles,1/1/2017,8/1/2026,116
+40retail_e_commerce_sales_share_of_total_retail_sales,40,Retail E Commerce Sales Share Of Total Retail Sales,Retail and motor vehicles,1/1/2017,8/1/2026,116
+41new_motor_vehicle_sales_total_value,41,New Motor Vehicle Sales Total Value,Retail and motor vehicles,1/1/1946,8/1/2026,968
+42new_motor_vehicle_sales_total_units,42,New Motor Vehicle Sales Total Units,Retail and motor vehicles,1/1/1946,8/1/2026,968
+43new_motor_vehicle_sales_passenger_cars_value,43,New Motor Vehicle Sales Passenger Cars Value,Retail and motor vehicles,1/1/1946,8/1/2026,968
+44new_motor_vehicle_sales_passenger_cars_units,44,New Motor Vehicle Sales Passenger Cars Units,Retail and motor vehicles,1/1/1946,8/1/2026,968
+45new_motor_vehicle_sales_trucks_value,45,New Motor Vehicle Sales Trucks Value,Retail and motor vehicles,1/1/1946,8/1/2026,968
+46new_motor_vehicle_sales_trucks_units,46,New Motor Vehicle Sales Trucks Units,Retail and motor vehicles,1/1/1946,8/1/2026,968
+47new_motor_vehicle_sales_zero_emission_value,47,New Motor Vehicle Sales Zero Emission Value,Retail and motor vehicles,1/1/2024,8/1/2026,32
+48new_motor_vehicle_sales_zero_emission_units,48,New Motor Vehicle Sales Zero Emission Units,Retail and motor vehicles,1/1/2024,8/1/2026,32
+100merchandise_imports_from_united_states_balance_of_payments_basis,100,Merchandise Imports From United States Balance Of Payments Basis,Trade and tourism,1/1/1997,8/1/2026,356
+101merchandise_imports_from_the_european_union_balance_of_payments_basis,101,Merchandise Imports From The European Union Balance Of Payments Basis,Trade and tourism,1/1/1997,8/1/2026,356
+102merchandise_trade_balance_balance_of_payments_basis,102,Merchandise Trade Balance Balance Of Payments Basis,Trade and tourism,1/1/1988,8/1/2026,464
+103merchandise_terms_of_trade,103,Merchandise Terms Of Trade,Trade and tourism,1/1/2017,8/1/2026,116
+104merchandise_exports_volume,104,Merchandise Exports Volume,Trade and tourism,1/1/2017,8/1/2026,116
+105merchandise_imports_volume,105,Merchandise Imports Volume,Trade and tourism,1/1/2017,8/1/2026,116
+106services_exports_balance_of_payments_basis,106,Services Exports Balance Of Payments Basis,Trade and tourism,1/1/2007,8/1/2026,236
+107services_imports_balance_of_payments_basis,107,Services Imports Balance Of Payments Basis,Trade and tourism,1/1/2007,8/1/2026,236
+108services_trade_balance_balance_of_payments_basis,108,Services Trade Balance Balance Of Payments Basis,Trade and tourism,1/1/2007,8/1/2026,236
+109non_resident_visitors_entering_canada,109,Non Resident Visitors Entering Canada,Trade and tourism,1/1/2010,8/1/2026,200
+110canadian_resident_visitors_returning_to_canada,110,Canadian Resident Visitors Returning To Canada,Trade and tourism,1/1/2010,8/1/2026,200
+96merchandise_exports_balance_of_payments_basis,96,Merchandise Exports Balance Of Payments Basis,Trade and tourism,1/1/1988,8/1/2026,464
+97merchandise_exports_to_united_states_balance_of_payments_basis,97,Merchandise Exports To United States Balance Of Payments Basis,Trade and tourism,1/1/1997,8/1/2026,356
+98merchandise_exports_to_the_european_union_balance_of_payments_basis,98,Merchandise Exports To The European Union Balance Of Payments Basis,Trade and tourism,1/1/1997,8/1/2026,356
+99merchandise_imports_balance_of_payments_basis,99,Merchandise Imports Balance Of Payments Basis,Trade and tourism,1/1/1988,8/1/2026,464
+49wholesale_sales_excluding_petroleum_products_oilseed_and_grain,49,Wholesale Sales Excluding Petroleum Products Oilseed And Grain,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+50wholesale_sales_excluding_petroleum_products_oilseed_and_grain_volume,50,Wholesale Sales Excluding Petroleum Products Oilseed And Grain Volume,"Wholesale, services and transport",1/1/2004,8/1/2026,272
+51wholesale_sales_total,51,Wholesale Sales Total,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+52wholesale_sales_volume_total,52,Wholesale Sales Volume Total,"Wholesale, services and transport",1/1/2004,8/1/2026,272
+53wholesale_sales_farm_product_merchant_wholesalers,53,Wholesale Sales Farm Product Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+54wholesale_sales_farm_product_merchant_wholesalers_excluding_oilseed_and_grain,54,Wholesale Sales Farm Product Merchant Wholesalers Excluding Oilseed And Grain,"Wholesale, services and transport",1/1/2023,8/1/2026,44
+55wholesale_sales_petroleum_petroleum_products_and_other_hydrocarbons_merchant_wholesalers,55,Wholesale Sales Petroleum Petroleum Products And Other Hydrocarbons Merchant Wholesalers,"Wholesale, services and transport",1/1/2023,8/1/2026,44
+56wholesale_sales_food_beverage_and_tobacco_merchant_wholesalers,56,Wholesale Sales Food Beverage And Tobacco Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+57wholesale_sales_personal_and_household_goods_merchant_wholesalers,57,Wholesale Sales Personal And Household Goods Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+58wholesale_sales_motor_vehicle_and_motor_vehicle_parts_and_accessories_merchant_wholesalers,58,Wholesale Sales Motor Vehicle And Motor Vehicle Parts And Accessories Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+59wholesale_sales_building_material_and_supplies_merchant_wholesalers,59,Wholesale Sales Building Material And Supplies Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+60wholesale_sales_machinery_equipment_and_supplies_merchant_wholesalers,60,Wholesale Sales Machinery Equipment And Supplies Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+61wholesale_sales_miscellaneous_merchant_wholesalers,61,Wholesale Sales Miscellaneous Merchant Wholesalers,"Wholesale, services and transport",1/1/1993,8/1/2026,404
+62food_services_and_drinking_places_revenue_total,62,Food Services And Drinking Places Revenue Total,"Wholesale, services and transport",1/1/1998,7/1/2026,343
+63food_services_and_drinking_places_revenue_special_services,63,Food Services And Drinking Places Revenue Special Services,"Wholesale, services and transport",1/1/1998,7/1/2026,343
+64food_services_and_drinking_places_revenue_drinking_places,64,Food Services And Drinking Places Revenue Drinking Places,"Wholesale, services and transport",1/1/1998,7/1/2026,343
+65food_services_and_drinking_places_revenue_full_service_restaurants,65,Food Services And Drinking Places Revenue Full Service Restaurants,"Wholesale, services and transport",1/1/1998,7/1/2026,343
+66food_services_and_drinking_places_revenue_limited_service_eating_places,66,Food Services And Drinking Places Revenue Limited Service Eating Places,"Wholesale, services and transport",1/1/1998,7/1/2026,343
+67urban_transit_revenues_excluding_subsidies,67,Urban Transit Revenues Excluding Subsidies,"Wholesale, services and transport",1/1/2017,8/1/2026,116
+68urban_transit_passenger_trips,68,Urban Transit Passenger Trips,"Wholesale, services and transport",1/1/2017,8/1/2026,116
+69domestic_aircraft_movements,69,Domestic Aircraft Movements,"Wholesale, services and transport",12/1/2019,3/1/2026,76
+70transborder_aircraft_movements,70,Transborder Aircraft Movements,"Wholesale, services and transport",12/1/2019,3/1/2026,76
+71other_international_aircraft_movements,71,Other International Aircraft Movements,"Wholesale, services and transport",12/1/2019,3/1/2026,76
+72screened_passenger_traffic_at_the_largest_airports_in_canada,72,Screened Passenger Traffic At The Largest Airports In Canada,"Wholesale, services and transport",1/1/2019,8/1/2026,92
+73railway_carloadings,73,Railway Carloadings,"Wholesale, services and transport",1/1/1999,7/1/2026,331

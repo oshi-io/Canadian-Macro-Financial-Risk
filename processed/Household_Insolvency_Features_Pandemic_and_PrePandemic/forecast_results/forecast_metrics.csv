@@ -1,0 +1,7 @@
+split,model,months,mae_pp,rmse_pp,mean_error_pp
+test,Persistence,20,6.094,8.471,-1.232
+test,Historical Ridge,20,4.67,6.18,0.765
+test,Macro Ridge,20,6.446,7.978,6.045
+validation,Persistence,30,10.537,13.044,3.083
+validation,Historical Ridge,30,15.467,17.534,14.685
+validation,Macro Ridge,30,14.428,16.188,12.444

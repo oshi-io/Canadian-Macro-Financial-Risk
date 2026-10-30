@@ -1,0 +1,9 @@
+"predictor","predictor_order","economic_period","period_order","pre_pandemic_r","period_r","delta_r","sign_reversal","baseline_months","period_months"
+"GDP growth",3,"2020-2021",2,-0.412,0.849,1.261,True,120,24
+"Mortgage rate",4,"2020-2021",2,-0.316,0.033,0.349,True,120,24
+"Real earnings growth",2,"2020-2021",2,-0.135,-0.915,-0.780,False,120,24
+"Unemployment change",1,"2020-2021",2,0.208,-0.246,-0.454,True,120,24
+"GDP growth",3,"2022-2026",3,-0.412,0.057,0.469,True,120,56
+"Mortgage rate",4,"2022-2026",3,-0.316,0.488,0.804,True,120,56
+"Real earnings growth",2,"2022-2026",3,-0.135,-0.275,-0.140,False,120,55
+"Unemployment change",1,"2022-2026",3,0.208,0.291,0.083,False,120,56

@@ -1,0 +1,13 @@
+"period_order","economic_period","predictor","paired_months","correlation_r"
+1,"2010-2019","Mortgage rate",120,-0.316
+2,"2020-2021","GDP growth",24,0.849
+2,"2020-2021","Mortgage rate",24,0.033
+2,"2020-2021","Unemployment change",24,-0.246
+3,"2022-2026","GDP growth",56,0.057
+1,"2010-2019","Unemployment change",120,0.208
+1,"2010-2019","Real earnings growth",120,-0.135
+2,"2020-2021","Real earnings growth",24,-0.915
+3,"2022-2026","Real earnings growth",55,-0.275
+3,"2022-2026","Unemployment change",56,0.291
+3,"2022-2026","Mortgage rate",56,0.488
+1,"2010-2019","GDP growth",120,-0.412
