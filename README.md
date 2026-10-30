@@ -32,11 +32,11 @@ This is a research/portfolio project, not a credit-decision engine, personal fin
   <tr>
     <td width="50%" align="center">
       <img src="demo/Household-Financial-Stress_page_1.png" alt="Placeholder for Household Financial Stress dashboard page 1" width="100%" />
-      <br/><strong>Page 1 — Economic Conditions and Household Distress</strong>
+      <br/><strong>Economic Conditions and Household Distress</strong>
     </td>
     <td width="50%" align="center">
       <img src="demo/Household-Financial-Stress_page_2.png" alt="Placeholder for Household Financial Stress dashboard page 2" width="100%" />
-      <br/><strong>Page 2 — Economic Regime Analysis</strong>
+      <br/><strong>Economic Regime Analysis</strong>
     </td>
   </tr>
 </table>
