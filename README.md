@@ -28,22 +28,18 @@ This is a research/portfolio project, not a credit-decision engine, personal fin
 
 ## Dashboard preview
 
-<!-- Replace the placeholder image paths when the final preview filenames are available. -->
-
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="demo/Household-Financial-Stress\_page\_1.png" alt="Placeholder for Household Financial Stress dashboard page 1" width="100%" />
+      <img src="Canadian-Macro-Financial-Risk/demo/Household-Financial-Stress_page_1.png" alt="Placeholder for Household Financial Stress dashboard page 1" width="100%" />
       <br/><strong>Page 1 — Economic Conditions and Household Distress</strong>
     </td>
     <td width="50%" align="center">
-      <img src="demo/Household-Financial-Stress\_page\_2.png" alt="Placeholder for Household Financial Stress dashboard page 2" width="100%" />
+      <img src="Canadian-Macro-Financial-Risk/demo/Household-Financial-Stress_page_2.png" alt="Placeholder for Household Financial Stress dashboard page 2" width="100%" />
       <br/><strong>Page 2 — Economic Regime Analysis</strong>
     </td>
   </tr>
 </table>
-
-*Preview images are placeholders. Once the final dashboard page screenshots are exported, place them in* [*`demo/`*](demo/) *and update the two `src` paths above. Full-resolution PDF exports can be added to the same directory.*
 
 ## Current case study: Household Financial Stress
 
